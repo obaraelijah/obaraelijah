@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Alx_Africa/Holberton projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Dev projects**
 
