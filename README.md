@@ -11,15 +11,6 @@
 
 <table>
   <tr>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="javascript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
@@ -31,12 +22,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="VueJS"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Vue</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -47,8 +38,6 @@
       />
       <br /><strong>React</strong>
     </td>
-
-
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
@@ -114,7 +103,6 @@
       />
       <br /><strong>Express</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -141,6 +129,15 @@
         alt="Firebase"
       />
       <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
