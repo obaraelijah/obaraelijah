@@ -20,16 +20,15 @@
       />
       <br /><strong>TypeScript</strong>
     </td>
-     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="VueJS"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Vue</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -56,15 +55,6 @@
         alt="Sass"
       />
       <br /><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -140,7 +130,15 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-   
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
