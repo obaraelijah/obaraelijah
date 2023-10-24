@@ -1,173 +1,75 @@
-# 👋 Hey there
+### Hey! I'm Elijah Samson
 
-<div align="justify">
-    Hello, I'm Elijah Samson,a versatile Full Stack Developer with a diverse skill set and a passion for technology. My expertise spans several programming languages, including JavaScript, Python,TypeScript, and C. I've honed my skills through extensive experience working on various projects and continuously learning new techniques. I'm always eager to take on new challenges and apply my knowledge to create impactful solutions. With my strong background in technology and my drive to continue learning, I'm confident in my ability to excel as a Full Stack Developer.I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
-</div>
+- 💼 I am a dedicated and self-driven software engineer with a strong background in backend development. My enthusiasm lies in constructing resilient and scalable solutions, consistently delivering high-quality, scalable, and maintainable code.
+- 🛠️ Specializing in a versatile tech stack that includes Node.js, Express.js, Python, Django, MongoDB, and PostgreSQL, I excel in Restful API design, database architecture, adept problem-solving, and proficient debugging skills. With these tools in my arsenal, I engineer efficient and reliable applications, ensuring seamless user experiences.
+🦾 I am continuously enhancing my skills in backend, striving for excellence in every aspect.
+- 🌱 Currently, I am mastering the MERN Stack, further expanding my proficiency in modern web development technologies.
+- 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
+- 👀 I have a keen interest in both Backend development and DevOps practices.
+- 
+### 💪 Skills & Technologies
+![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,redux,prisma,mongodb,sequelize,postgresql,redis,jest,docker,kubernetes,githubactions)
 
-<br/><a href="https://www.linkedin.com/in/elijah-samson-16619912a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:elijahobara357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+### 🧐 Area of Interest
+
+- Web Automation
+- API design and development
+- Micro-service architecture
+- Automating development workflows and deployment pipelines
+
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- HASHNODE:START -->
+- [Enhancing Microservice Security with Custom Middleware in Django](https://medium.com/aws-tip/enhancing-microservice-security-with-custom-middleware-in-django-e25409c45e94)
+- [WebSockets-Based APIs with Django(https://medium.com/django-unleashed/websockets-based-apis-with-django-real-time-communication-made-easy-2122b49720bf)
+- [Mastering Multi-Tenant Architecture in Django: Scaling Your SaaS with Separate Databases per Tenant](https://medium.com/aws-tip/mastering-multi-tenant-architecture-in-django-scaling-your-saas-with-separate-databases-per-tenant-9813418a35c9)
+- [Dockerizing Django Application Gunicorn and Nginx(Django on Docker)](https://medium.com/aws-tip/dockerizing-django-application-gunicorn-and-nginx-django-on-docker-46fefa3114c4)
+- [Using Nginx as an API Gateway
+](https://medium.com/aws-tip/using-nginx-as-an-api-gateway-ce7781c712bb)
+<!-- HASHNODE:END -->
+<!-- Summary start -->
+<details>
+  <summary>
+    You wanna know more about me?
+  </summary>
+
+  <br>
+
+Greetings! I'm an enthusiastic software engineer with a deep-rooted passion for backend development. My unwavering dedication to constant learning empowers me to enhance my skill set, ultimately enabling me to craft exceptional software solutions.
+
+I specialize in building complex web applications using cutting-edge technologies like  JavaScript, TypeScript, Node.js, Express, MongoDB, React. My expertise allows me to create scalable, robust, and efficient systems that meet client and user needs. I'm always eager to learn and grow, staying updated with industry trends and best practices. I enjoy collaborating with developers and stakeholders to solve real-world problems with innovative solutions.
+  <br>
+
+#### Github Stats
+
+  <p align="left">
+    <img width="500px"
+      src="https://github-readme-stats.vercel.app/api?username=obaraelijah&show_icons=true&theme=midnight-purple&line_height=25&hide=stars">
+  </p>
+
+#### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=obaraelijah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Productivity Stats
 
 
-# 🔧 Technologies & Tools
+ ![Elijah Obara's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossainchisty&theme=midnight_purple)
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tailwind</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="48"
-        height="48"
-        alt="Docker"
-      />
-      <br /><strong>Docker</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-  </tr>
-</table>
 
-# 📈 Stats
+#### Top language  
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=obaraelijah&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=obaraelijah&&theme=react&&hide_border=true"
-/>
-<br/>
-![](https://komarev.com/ghpvc/?username=obaraelijah)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossainchisty&theme=midnight_purple)
+
+
+#### Profile Visits
+
+  <p align="left">
+    <img width="230px" src="https://profile-counter.glitch.me/obaraelijah/count.svg" />
+  </p>
+
+
+</details>
+<!-- Summary end -->
