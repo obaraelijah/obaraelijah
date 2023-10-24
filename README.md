@@ -56,12 +56,12 @@ I specialize in building complex web applications using cutting-edge technologie
 #### Productivity Stats
 
 
- ![Elijah Obara's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossainchisty&theme=midnight_purple)
+ ![Elijah Obara's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obaraelijah&theme=midnight_purple)
 
 
 #### Top language  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossainchisty&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obaraelijah&theme=midnight_purple)
 
 
 #### Profile Visits
