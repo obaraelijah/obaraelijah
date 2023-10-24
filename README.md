@@ -24,7 +24,7 @@
 
 <!-- HASHNODE:START -->
 - [Enhancing Microservice Security with Custom Middleware in Django](https://medium.com/aws-tip/enhancing-microservice-security-with-custom-middleware-in-django-e25409c45e94)
-- [WebSockets-Based APIs with Django(https://medium.com/django-unleashed/websockets-based-apis-with-django-real-time-communication-made-easy-2122b49720bf)
+- [WebSockets-Based APIs with Django](https://medium.com/django-unleashed/websockets-based-apis-with-django-real-time-communication-made-easy-2122b49720bf)
 - [Mastering Multi-Tenant Architecture in Django: Scaling Your SaaS with Separate Databases per Tenant](https://medium.com/aws-tip/mastering-multi-tenant-architecture-in-django-scaling-your-saas-with-separate-databases-per-tenant-9813418a35c9)
 - [Dockerizing Django Application Gunicorn and Nginx(Django on Docker)](https://medium.com/aws-tip/dockerizing-django-application-gunicorn-and-nginx-django-on-docker-46fefa3114c4)
 - [Using Nginx as an API Gateway
