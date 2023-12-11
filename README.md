@@ -1,11 +1,9 @@
 ### Hey! I'm Elijah Samson
 
-- 💼 I am a dedicated and self-driven software engineer with a strong background in backend development. My enthusiasm lies in constructing resilient and scalable solutions, consistently delivering high-quality, scalable, and maintainable code.
-- 🛠️ Specializing in a versatile tech stack that includes Node.js, Express.js, Python, Django, MongoDB, and PostgreSQL, I excel in Restful API design, database architecture, adept problem-solving, and proficient debugging skills. With these tools in my arsenal, I engineer efficient and reliable applications, ensuring seamless user experiences.
-🦾 I am continuously enhancing my skills in backend, striving for excellence in every aspect.
-- 🌱 Currently, I am mastering the MERN Stack, Practising DSA, further expanding my proficiency in modern web development technologies.
+- 💼 I am a highly motivated software engineer specializing in backend development. Currently, **I'm open to work and employment opportunities(remote)**.
+- 🚀 Proficient in the backend tech stack, encompassing JavaScript/Node.js, Express.js, Python/Django, DRF, Redis, and expertise in both NoSQL and RDBMS databases.
+- 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
-- 👀 I have a keen interest in both Backend development and DevOps practices.
 - 
 ### 💪 Skills & Technologies
 ![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,redux,prisma,mongodb,sequelize,postgresql,redis,jest,docker,kubernetes,githubactions)
