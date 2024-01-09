@@ -4,7 +4,7 @@
 - 🚀 Proficient in the backend tech stack, encompassing JavaScript/Node.js, Express.js, Python/Django, DRF, Redis, and expertise in both NoSQL and RDBMS databases.
 - 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
-- 
+  
 ### 💪 Skills & Technologies
 ![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,redux,prisma,mongodb,sequelize,postgresql,redis,jest,docker,kubernetes,githubactions)
 
